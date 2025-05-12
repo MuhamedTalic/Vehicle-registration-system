@@ -1,0 +1,33 @@
+.custom-btn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-login {
+    width: 40%;
+    margin-top: 7%;
+    margin-left: 30%;
+}
+
+.container {
+    width: 50%;
+}
+
+.li:hover{
+    background-color: lightgray;
+}
+
+.change-btn {
+    width: 20%;
+}
+
+body {
+    background-image: url('https://i.imgur.com/YhnFSCV.jpeg') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
